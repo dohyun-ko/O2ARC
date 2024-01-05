@@ -10,12 +10,22 @@
     "lint": "eslint src/"
   },
   "dependencies": {
+    "@storybook/addon-essentials": "^7.6.7",
+    "@storybook/addon-interactions": "^7.6.7",
+    "@storybook/addon-links": "^7.6.7",
+    "@storybook/blocks": "^7.6.7",
+    "@storybook/react": "^7.6.7",
+    "@storybook/react-vite": "^7.6.7",
+    "@storybook/testing-library": "^0.2.2",
     "i18next": "^23.2.8",
     "i18next-browser-languagedetector": "^7.0.1",
     "prettier": "^2.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-i18next": "^13.0.1",
+    "react-router-dom": "^6.21.1",
+    "storybook": "^7.6.7",
+    "storybook-addon-react-router-v6": "^2.0.10",
     "styled-components": "^5.3.6"
   },
   "devDependencies": {
